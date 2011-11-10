@@ -2,7 +2,9 @@ Pusher FuelPHP Class
 ==================
 
 This is a FuelPHP Class to help working with Pusher API (http://pusherapp.com).
+
 Inherited from Squeeks' PHP Pusher Library (https://github.com/squeeks/Pusher-PHP)
+
 Usage:
 
     Pusher::init($key, $secret, $app_id);
@@ -94,6 +96,7 @@ Note: this assumes that you store your users in a model file called Model_User, 
 
 License
 -------
-Copyright 2011, Arkross. Not yet licensed, free to use.
+Copyright 2011, Arkross. Distributed under MIT License.
+
 Credit goes to Squeeks on his project: Pusher-PHP (https://github.com/squeeks/Pusher-PHP)
 
